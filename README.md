@@ -1,6 +1,6 @@
 # alpine-golang
 Golang Docker images built on official Golang Alpine Linux
-Size: ??? MB (All Layers: 268.2 MB)
+Size: 80.9 MB (All Layers: 268.2 MB)
 
 Layers:
 - alpine:3.4 5 MB
