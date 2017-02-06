@@ -1,4 +1,4 @@
-FROM nlepage/golang:1.7
+FROM zenika/alpine-golang:1.7
 
 RUN mkdir -p /go/src/app/vendor
 WORKDIR /go/src/app
